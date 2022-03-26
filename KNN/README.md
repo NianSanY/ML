@@ -1,1 +1,1 @@
-PCA/LDA -> KNN
+# PCA/LDA -> KNN
